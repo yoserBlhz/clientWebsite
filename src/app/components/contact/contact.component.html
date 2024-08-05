@@ -1,0 +1,26 @@
+<div class="contact">
+    <div class="contact-col">
+      <h3>Envoyer Nous vos Reclamation <img src="assets/msg-icon.png" alt="Message Icon" /> </h3>
+      <p>Si vous avez quelques choses qui ne vous convient pas. N'hesitez pas a nous informer.</p>
+      <ul>
+        <li><img src="assets/mail-icon.png" alt="Mail Icon" /> benlehzilyosrclubgmail.com</li>
+        <li><img src="assets/phone-icon.png" alt="Phone Icon" /> 92312230</li>
+        <li><img src="assets/location-icon.png" alt="Location Icon" /> Tunisia, Nabeul</li>
+      </ul>
+    </div>
+    <div class="contact-col">
+      <form #contactForm="ngForm" (ngSubmit)="onSubmit(contactForm.value)">
+        <label>Nom</label>
+        <input type="text" name="nom" placeholder="Entrer votre nom" ngModel required />
+        <label>Prenom</label>
+        <input type="text" name="prenom" placeholder="Entrer votre prenom" ngModel required />
+        <label>Phone Number</label>
+        <input type="tel" name="telephone" placeholder="Enter your mobile number" ngModel required />
+        <label>Votre réclamation</label>
+        <textarea name="description" rows="6" placeholder="Votre réclamtion..." ngModel required></textarea>
+        <button type="submit" class="btn dark-btn">Submit now <img src="assets/white-arrow.png" alt="Arrow Icon" /></button>
+      </form>
+      <span>{{ result }}</span>
+    </div>
+  </div>
+  
