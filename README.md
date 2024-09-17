@@ -1,27 +1,40 @@
-# ClientWebsite
+## Site Vitrine - Service de Livraison
+Ce projet est un site vitrine créé pour présenter les services de livraison de l'entreprise. Le site met en avant les avis des clients, les offres de livraison et les services disponibles.
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.1.0.
+## Fonctionnalités
+Présentation des services : Description détaillée des offres de livraison.
 
-## Development server
+Avis des clients : Section permettant de voir les avis laissés par les clients.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Offres de livraison : Page présentant les différentes offres de livraison proposées.
 
-## Code scaffolding
+Design responsive : Le site est optimisé pour une utilisation sur différents appareils (mobiles, tablettes, desktop).
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Technologies utilisées
 
-## Build
+Angular : Framework utilisé pour le développement frontend.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+Bootstrap : Utilisé pour la mise en page et le design responsive.
 
-## Running unit tests
+CSS/SCSS : Personnalisation du style et des animations.
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+NestJs (Backend) : Pour gérer certaines fonctionnalités du site (ex: soumission des formulaires de contact).
 
-## Running end-to-end tests
+## Prérequis
+Node.js 
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+Angular CLI 
 
-## Further help
+## Installation
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+Cloner le projet 
+
+Installer les dépendances :
+
+      npm install 
+Lancer l'application en mode développement :
+
+    ng serve
+Ouvrir le navigateur à l'adresse suivante :
+
+http://localhost:4200
