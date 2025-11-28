@@ -38,3 +38,14 @@ Lancer l'application en mode développement :
 Ouvrir le navigateur à l'adresse suivante :
 
 http://localhost:4200
+
+
+<img width="1283" height="503" alt="Image" src="https://github.com/user-attachments/assets/55737bc2-3457-425d-8d30-393e807785eb" />
+
+<img width="1262" height="591" alt="Image" src="https://github.com/user-attachments/assets/6d38a762-95b8-4bee-970f-73001942a37b" />
+
+<img width="1282" height="595" alt="Image" src="https://github.com/user-attachments/assets/3b14ea91-f1b0-472e-9d6f-340b409be845" />
+
+<img width="1285" height="559" alt="Image" src="https://github.com/user-attachments/assets/b2bef59e-3325-4f13-9229-d8f977c87c4d" />
+
+<img width="1292" height="593" alt="Image" src="https://github.com/user-attachments/assets/d73f82ad-2b3a-4d45-bb03-bdd6eb1d33fd" />
