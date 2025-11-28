@@ -39,10 +39,9 @@ Ouvrir le navigateur à l'adresse suivante :
 
 http://localhost:4200
 
+<img width="1262" height="591" alt="Image" src="https://github.com/user-attachments/assets/6d38a762-95b8-4bee-970f-73001942a37b" />
 
 <img width="1283" height="503" alt="Image" src="https://github.com/user-attachments/assets/55737bc2-3457-425d-8d30-393e807785eb" />
-
-<img width="1262" height="591" alt="Image" src="https://github.com/user-attachments/assets/6d38a762-95b8-4bee-970f-73001942a37b" />
 
 <img width="1282" height="595" alt="Image" src="https://github.com/user-attachments/assets/3b14ea91-f1b0-472e-9d6f-340b409be845" />
 
